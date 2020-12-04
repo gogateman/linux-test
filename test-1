@@ -1,3 +1,2 @@
 echo "This is jenkins test"
 mkdir /root/mandar-test
-pwd
